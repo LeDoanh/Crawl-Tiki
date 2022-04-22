@@ -24,6 +24,7 @@ Các thông tin thu thập được:
 - Description
 
 Ví dụ:
+
 {
 "Id": 1,
 "Name": "Điện thoại Samsung Galaxy S22 Plus 5G (8GB/128GB) - Hàng chính hãng",

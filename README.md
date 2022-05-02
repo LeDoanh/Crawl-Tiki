@@ -1,6 +1,6 @@
 # Crawl-Tiki
 
-Sử dụng Framework Scrapy thu thập dữ liệu Smartphone từ trang Tiki.vn
+Sử dụng Scrapy thu thập dữ liệu Smartphone từ trang Tiki.vn
 Các thông tin thu thập được:
 - Name
 - SKU
